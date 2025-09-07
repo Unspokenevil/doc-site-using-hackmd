@@ -1,5 +1,5 @@
 destination: ./build
-baseurl: 'docs-with-hackmd'
-title: "My doc site"
+baseurl: 'doc-site-using-hackmd'
+title: "Nerdy Docs"
 theme: just-the-docs
 search_enabled: false
